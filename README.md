@@ -3,20 +3,20 @@
 
 ## open the client folder and install dependencies 
 
-'''console
+'''properties
 cd myapp
 npm install
 '''
 
 ### to the client side
 
-'''console
+'''properties
 npm run dev
 '''
 
 ## open the server folder and install dependencies
 
-'''console
+'''properties
 cd ..
 cd server
 npm install
@@ -24,6 +24,6 @@ npm install
 
 ### to run the server side 
 
-'''console
+'''properties
 npm start
 '''
