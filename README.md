@@ -17,7 +17,6 @@ npm run dev
 ## open the server folder and install dependencies
 
 ```console
-cd ..
 cd server
 npm install
 ```
@@ -27,3 +26,4 @@ npm install
 ```properties
 npm start
 ```
+
